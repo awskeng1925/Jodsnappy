@@ -3,3 +3,9 @@ pyjwt
 instagrapi
 requests
 pyngrok
+flask
+pyjwt
+instagrapi
+requests
+pyngrok
+gunicorn
